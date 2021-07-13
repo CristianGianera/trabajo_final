@@ -1,0 +1,74 @@
+body{
+    background-color:#5fd3b0 !important;
+    height: 100vh !important;
+    max-width: 100% !important;
+   
+}
+
+
+.encabezado {
+background-color: #707064 ;
+
+width: 100%;
+position:fixed !important;
+z-index: 999999999999;
+}
+
+.footer{
+background-color: #57f548c2;
+font-size: 2rem;
+ 
+}
+
+.icono{
+    height: 50px;;
+}
+
+.seccion1 {
+    margin-top: 80px;
+    font-family:fantasy;
+    font-size: 1.5rem;
+}
+
+.seccion2 {
+    margin-bottom: 200px;
+    margin-top: 200px;
+    font-family: 'Lobster Two', cursive;
+}
+
+.lista1, .lista2 {
+    font-family: 'Playball', cursive !important;
+    font-size: 2rem;
+}
+
+.lista3, .lista4 {
+    font-family: 'Lobster Two', fantasy;
+    font-size: 2rem;
+    color:saddlebrown;
+}
+
+.programador {
+    width: 100%;
+    margin-top: 100px;
+}
+
+.html {
+    width: 100%;
+}
+
+.viaje{
+    width: 100%;
+    margin-top: 150px;
+}
+
+.lenguajes{
+    width: 100%;
+    margin-top: 150px;
+}
+
+#git, #face, #email{
+    cursor:pointer ;
+    font-size: 1rem;
+}
+
+
